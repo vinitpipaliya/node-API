@@ -1,0 +1,38 @@
+{
+    "userdata": [
+        {
+            "counter": 2,
+            "id": 1,
+            "name": "Vinit",
+            "number": "9904402288",
+            "email": "pipaliya.vinit12@gmail.com",
+            "password": "Vinit1998",
+            "status": "confirm",
+            "bd": "05/11/1998"
+        },
+        {
+            "counter": 3,
+            "name": "Vinit",
+            "number": "9904407288",
+            "email": "pipaliya.vinit@gmail.com",
+            "password": "Vinit1998",
+            "bd": "05/11/1998",
+            "id": 2,
+            "status": "confirm"
+        },
+        {
+            "counter": 4,
+            "name": "Vinit",
+            "number": "9904400288",
+            "email": "pipaliya.vinit90@gmail.com",
+            "password": "Vinit1998",
+            "bd": "05/11/1998",
+            "id": 3,
+            "status": "confirm"
+        }
+    ],
+    "admindata": {
+        "userName": "admin",
+        "password": "admin"
+    }
+}
